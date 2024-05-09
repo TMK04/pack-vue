@@ -1,0 +1,23 @@
+{
+  "name": "pack-vue",
+  "displayName": "Pack Vue",
+  "description": "VSCode Vue Extension Pack",
+  "version": "1.0.0",
+  "publisher": "TMK04",
+  "license": "Apache-2.0",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "tmk04.pack-js",
+    "tmk04.pack-tailwind",
+    "Vue.volar"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TMK04/pack-vue.git"
+  }
+}
